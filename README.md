@@ -12,7 +12,7 @@
    - Серверная часть: [Скачать ZIP](https://github.com/Xemul-lab/mods/releases/download/v1.0/for.server.zip)
 3. **Resourcepacks**: Содержит пакеты ресурсов для проекта. 
    - Ссылка на репозиторий: https://github.com/Xemul-lab/resourcepacks
-   - Как скачать: [Скачать ZIP](https://github.com/Xemul-lab/resourcepacks/releases/tag/v1.0)
+   - Как скачать: [Releases](https://github.com/Xemul-lab/resourcepacks/releases/tag/v1.0)
 
 Каждый из этих репозиториев можно скачать отдельно, в зависимости от ваших потребностей.
 
