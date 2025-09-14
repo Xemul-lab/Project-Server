@@ -8,8 +8,7 @@
 
 2. **Mods**: Содержит модификации для проекта.
    - Ссылка на репозиторий: https://github.com/Xemul-lab/mods
-   - Клиентская часть: [Скачать ZIP](https://github.com/Xemul-lab/mods/releases/download/v1.0/for.client.zip)
-   - Серверная часть: [Скачать ZIP](https://github.com/Xemul-lab/mods/releases/download/v1.0/for.server.zip)
+   - Как скачать: [Releases](https://github.com/Xemul-lab/mods/releases/tag/v1.0)
 3. **Resourcepacks**: Содержит пакеты ресурсов для проекта. 
    - Ссылка на репозиторий: https://github.com/Xemul-lab/resourcepacks
    - Как скачать: [Releases](https://github.com/Xemul-lab/resourcepacks/releases/tag/v1.0)
